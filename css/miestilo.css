@@ -1,0 +1,84 @@
+
+.alinear-vertical{
+    position: relative;
+    top: 50%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d84315;
+    font-size: 2.5cm;
+}
+
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d84315;
+    font-size: 1cm;
+}
+
+.row-top{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 130px;
+}
+
+.row-conceptos{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 130px;
+}
+
+
+.centrado{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* Estilos Wendy */
+
+
+body{
+    background-color: #BBB09F;
+  }
+  
+  .naranja-text{
+    color: #C74D30;     
+  }
+  
+  .cafe-text{
+    color: #9b8b72
+  }
+  
+  .white-text{
+    color: #FFFFFF;
+  }
+  
+  h1,h2, h4,p,ul{
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  }
+      
+  .min-image{
+     width: 200;
+  }
+  
+  .titulo-padding{
+    text-align: center;
+    background-color: #EFE8DE;
+    padding: 10;
+  }
+  
+  .margenNaranja{
+    padding: 10;
+    background-color: #C74D30;
+  }
+  
+  .margenBeigeClaro{
+    background-color: #F0F0EE;
+    padding: 20;
+  }
+  
+  .margenBeige{
+     padding: 10px;
+    background-color: #EFE8DE;
+  }
